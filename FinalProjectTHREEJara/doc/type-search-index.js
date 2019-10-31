@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"frames","l":"AllFrames"},{"p":"items","l":"CoffeeItem"},{"p":"items","l":"DrinkItem"},{"p":"items","l":"Item"},{"p":"frames","l":"JaraMain"},{"p":"items","l":"PastryItem"},{"p":"items","l":"TeaItem"}]
